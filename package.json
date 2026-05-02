@@ -1,15 +1,6 @@
 {
-  "name": "vercel-advanced-relay",
-  "version": "1.1.0",
-  "description": "Advanced XHTTP Bridge for Vercel",
-  "main": "api/index.js",
-  "scripts": {
-    "start": "node api/index.js"
-  },
-  "dependencies": {
-    "node-fetch": "^2.6.7"
-  },
-  "engines": {
-    "node": "20.x"
-  }
+  "name": "ts-silaber-relay",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
 }
